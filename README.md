@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @raghav-sharma-01
-- 👀 I’m interested in web development
-- 🌱 I’m currently learning web development
+- 👀 I’m interested in Data Analyst
+- 🌱 I’m currently learning Power BI
 - 📫 How to reach me 📧 Email: [2003raghavsharma@gmail.com](mailto:2003raghavsharma@gmail.com)
 - 💼 LinkedIn: https://www.linkedin.com/in/raghav-sharma-20a85728a/
 - 😄 Pronouns:he/him 
