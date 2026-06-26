@@ -235,29 +235,7 @@ Delivered full-stack web solutions for small businesses and academic clients, wi
 
 ## Certifications
 
-<div align="center">
 
-**AWS**
-
-[![AWS Cloud Foundations](https://img.shields.io/badge/AWS-Cloud%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-[![AWS ML Foundations](https://img.shields.io/badge/AWS-Machine%20Learning%20Foundations-FF9900?style=for-the-badge&logo=amazon-aws&logoColor=white)](https://aws.amazon.com)
-
-**Oracle**
-
-[![Oracle Cloud Infrastructure](https://img.shields.io/badge/Oracle-Cloud%20Infrastructure%20Foundations-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
-[![Oracle AI Foundations](https://img.shields.io/badge/Oracle-AI%20Foundations%20Associate-F80000?style=for-the-badge&logo=oracle&logoColor=white)](https://oracle.com)
-
-**NPTEL**
-
-[![NPTEL Python](https://img.shields.io/badge/NPTEL-Programming%20in%20Python-6d28d9?style=for-the-badge&logo=python&logoColor=white)](https://nptel.ac.in)
-[![NPTEL Data Science](https://img.shields.io/badge/NPTEL-Introduction%20to%20Data%20Science-4f46e5?style=for-the-badge&logo=databricks&logoColor=white)](https://nptel.ac.in)
-
-**Cisco**
-
-[![Cisco Introduction to Cybersecurity](https://img.shields.io/badge/Cisco-Introduction%20to%20Cybersecurity-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com)
-[![Cisco Networking Basics](https://img.shields.io/badge/Cisco-Networking%20Basics-049fd9?style=for-the-badge&logo=cisco&logoColor=white)](https://cisco.com)
-
-</div>
 
 ---
 
