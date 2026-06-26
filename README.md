@@ -234,7 +234,7 @@ Building and deploying end-to-end AI/ML systems across computer vision, NLP, and
 
 <div align="center">
 
-[![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=raghav-sharma-01&theme=react-dark&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Activity%20Graph)](https://github.com/ashutosh00710/github-readme-activity-graph)
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=raghav-sharma-01&theme=react-dark&bg_color=0d0d0d&color=7c3aed&line=6d28d9&point=a78bfa&area=true&area_color=4f46e5&hide_border=true&custom_title=Contribution%20Activity%20Graph" width="100%"/>
 
 </div>
 
@@ -298,4 +298,3 @@ open_to:
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:7c3aed,50:4f46e5,100:6d28d9&height=120&section=footer&animation=fadeIn" width="100%"/>
 
 </div>
-
