@@ -62,26 +62,6 @@ On the full-stack side, I build with the MERN ecosystem and design interfaces th
 
 </div>
 
----
-
-## AI / ML Expertise
-
-<div align="center">
-
-| Domain | Proficiency | Details |
-|--------|-------------|---------|
-| Large Language Models | ██████████ Advanced | Prompt engineering, RAG pipelines, fine-tuning, API integration (OpenAI, Gemini, Anthropic) |
-| Computer Vision | ████████░░ Proficient | Object detection, image classification, CNNs, OpenCV, transfer learning |
-| Natural Language Processing | ████████░░ Proficient | Text classification, named entity recognition, sentiment analysis, embeddings |
-| ML Ops & Deployment | ███████░░░ Intermediate | Model serving, REST inference APIs, Docker containerisation, monitoring |
-| Data Engineering | ████████░░ Proficient | ETL pipelines, feature engineering, pandas, NumPy, data cleaning at scale |
-| Agentic AI Systems | ████████░░ Proficient | Multi-agent orchestration, tool-calling agents, memory architectures |
-| Vector Databases | ███████░░░ Intermediate | FAISS, semantic search, similarity retrieval |
-
-</div>
-
----
-
 ## Featured Projects
 
 <details>
