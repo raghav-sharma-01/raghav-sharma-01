@@ -46,7 +46,7 @@ On the full-stack side, I build with the MERN ecosystem and design interfaces th
 
 **Languages**
 
-[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,cpp,java,bash&theme=dark)](https://skillicons.dev)
+[![Languages](https://skillicons.dev/icons?i=python,javascript,typescript,bash&theme=dark)](https://skillicons.dev)
 
 **Frontend**
 
@@ -54,7 +54,7 @@ On the full-stack side, I build with the MERN ecosystem and design interfaces th
 
 **Backend & Databases**
 
-[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,redis,supabase&theme=dark)](https://skillicons.dev)
+[![Backend](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgresql,supabase&theme=dark)](https://skillicons.dev)
 
 **Cloud, DevOps & Tooling**
 
