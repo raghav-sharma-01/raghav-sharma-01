@@ -247,7 +247,7 @@ open_to:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--sharma--01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma-01)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-raghav--sharma--01-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/raghav-sharma--/)
 [![GitHub](https://img.shields.io/badge/GitHub-raghav--sharma--01-6d28d9?style=for-the-badge&logo=github&logoColor=white)](https://github.com/raghav-sharma-01)
 
 </div>
