@@ -157,7 +157,7 @@ DLVIZR demonstrates that complex data engineering tooling can be packaged as a p
 ## Experience
 
 **AI / ML Engineering** · *Academic Projects & Independent Research*
-`Jan 2024 – Present`
+`Jan 2026 – Present`
 
 Building and deploying end-to-end AI/ML systems across computer vision, NLP, and agentic AI domains as part of structured final-year project work and self-directed portfolio engineering.
 
