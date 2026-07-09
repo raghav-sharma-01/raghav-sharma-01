@@ -175,7 +175,7 @@ Building and deploying end-to-end AI/ML systems across computer vision, NLP, and
 
 <div align="center">
 
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=raghav-sharma-01&theme=github_dark" />
+<img height="180em" src="https://github-readme-stats-sigma-five.vercel.app/api?username=raghav-sharma-01&show_icons=true&theme=midnight-purple"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=raghav-sharma-01&layout=compact&theme=midnight-purple&hide_border=true&bg_color=0d0d0d&title_color=7c3aed&text_color=c4b5fd&langs_count=8"/>
 
 </div>
